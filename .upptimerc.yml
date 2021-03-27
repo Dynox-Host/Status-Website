@@ -10,6 +10,9 @@ sites:
   - name: Panel
     url: https://panel.dynoxhost.tk
     icon: https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png
+  - name: DE-01
+    url: http://node.dynoxhost.tk
+    icon: https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
