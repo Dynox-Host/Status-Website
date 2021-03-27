@@ -16,6 +16,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 401
       - 404
       - 501
       - 502
