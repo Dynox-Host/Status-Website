@@ -13,6 +13,8 @@ sites:
   - name: DE-01
     url: https://node.dynoxhost.tk:8080
     icon: https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png
+    __dangerous__disable_verify_host: true
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
