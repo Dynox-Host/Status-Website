@@ -11,7 +11,7 @@ sites:
     url: https://panel.dynoxhost.tk
     icon: https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png
   - name: DE-01
-    url: http://node.dynoxhost.tk
+    url: http://node.dynoxhost.tk:8080
     icon: https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png
 
 status-website:
