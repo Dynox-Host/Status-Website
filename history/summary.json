@@ -34,23 +34,5 @@
     "timeMonth": 1060,
     "timeYear": 1060,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "DE-01",
-    "url": "https://node.dynoxhost.tk:8080",
-    "icon": "https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png",
-    "slug": "de-01",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
-    "dailyMinutesDown": {}
   }
 ]
