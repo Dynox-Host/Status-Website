@@ -22,18 +22,18 @@ sites:
       - 404
       - 501
       - 502
-   - name: Botlist
-    url: https://botlist.dynoxhost.tk
-    icon: https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png
-    __dangerous__disable_verify_host: true
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 401
-      - 404
-      - 501
-      - 502
+  - name: Botlist
+   url: https://botlist.dynoxhost.tk
+   icon: https://cdn.discordapp.com/attachments/811925478348029982/812451407562276874/image0.png
+   __dangerous__disable_verify_host: true
+   maxResponseTime: 5000
+   expectedStatusCodes:
+     - 200
+     - 201
+     - 401
+     - 404
+     - 501
+     - 502
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
